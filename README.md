@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2052%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -59,15 +59,15 @@ Sunday                   291 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    37 hrs 28 mins      █████████████████████░░░░   84.46 % 
-SQL                      6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Other                    39 hrs 55 mins      ██████████████████████░░░   86.31 % 
+SQL                      6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 
 🔥 Editors: 
-Chrome                   37 hrs 28 mins      █████████████████████░░░░   84.46 % 
-DataGrip                 6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Chrome                   39 hrs 55 mins      ██████████████████████░░░   86.31 % 
+DataGrip                 6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 
 💻 Operating System: 
-Linux                    44 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    46 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,6 +87,6 @@ CMake                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yanchick/yanchick/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2023 18:39:29 UTC
+ Last Updated on 10/09/2023 18:39:22 UTC
 <!--END_SECTION:waka-->
 
