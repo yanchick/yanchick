@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2012%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -59,13 +59,15 @@ Sunday                   294 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    2 hrs 48 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 23 mins       ███████████████████████░░   91.39 % 
+Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 48 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 23 mins       ███████████████████████░░   91.39 % 
+DataSpell                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 💻 Operating System: 
-Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -85,6 +87,6 @@ CMake                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yanchick/yanchick/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2023 18:39:55 UTC
+ Last Updated on 10/10/2023 18:40:25 UTC
 <!--END_SECTION:waka-->
 
