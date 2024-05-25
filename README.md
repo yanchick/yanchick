@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C934%20hrs%2042%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -59,15 +59,15 @@ Sunday                   307 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    19 hrs 11 mins      ████████████████████░░░░░   81.66 % 
-SQL                      4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Other                    21 hrs 11 mins      █████████████████████░░░░   83.34 % 
+SQL                      4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 11 mins      ████████████████████░░░░░   81.66 % 
-DataSpell                4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Chrome                   21 hrs 11 mins      █████████████████████░░░░   83.34 % 
+DataSpell                4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 
 💻 Operating System: 
-Linux                    23 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,6 +87,6 @@ TeX                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yanchick/yanchick/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 18:41:15 UTC
+ Last Updated on 25/05/2024 18:39:47 UTC
 <!--END_SECTION:waka-->
 
