@@ -38,36 +38,6 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C215%20hrs%2034%20mins-blue)
-
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   353 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Tuesday                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Wednesday                407 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Friday                   183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Saturday                 234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Sunday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yekaterinburg
-
-💬 Programming Languages: 
-Other                    35 hrs 21 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   35 hrs 21 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    35 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -85,6 +55,6 @@ CMake                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yanchick/yanchick/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:42:20 UTC
+ Last Updated on 24/07/2024 18:44:45 UTC
 <!--END_SECTION:waka-->
 
