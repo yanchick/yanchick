@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%2041%20mins-blue)
-
 **I Mostly Code in Python** 
 
 ```text
@@ -57,6 +55,6 @@ Dockerfile               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yanchick/yanchick/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:43:40 UTC
+ Last Updated on 03/11/2024 18:44:44 UTC
 <!--END_SECTION:waka-->
 
