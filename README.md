@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C959%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C960%20hrs%201%20min-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -59,15 +59,15 @@ Sunday                   318 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Jupyter Notebook         2 hrs               ████████████░░░░░░░░░░░░░   47.27 % 
-Other                    1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
-Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Jupyter Notebook         2 hrs 33 mins       ██████████████░░░░░░░░░░░   56.48 % 
+Other                    1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 15 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,6 +87,6 @@ Dockerfile               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yanchick/yanchick/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 18:45:24 UTC
+ Last Updated on 24/03/2025 18:49:34 UTC
 <!--END_SECTION:waka-->
 
